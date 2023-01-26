@@ -1,4 +1,7 @@
 This repo is my code-challenge I had to do for a %%company-name%%.
+
+Check it live on gh pages: [https://colossal-squid.github.io/vue-example-stonks-app/](https://colossal-squid.github.io/vue-example-stonks-app/)
+
 The task was to create a vue app that allows you to subscribe to price updates for financial products identified by ISIN.
 
 Make up any random ISINs, or past real ones to test it. The WS backend implementation provided is long gone, there's a mock in node `my-ws-mock.js` and a little "mock" via setTimeout that i'm using in github pages build. 
